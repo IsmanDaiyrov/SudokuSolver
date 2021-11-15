@@ -21,6 +21,20 @@ int[][] board = {
            {0, 0, 7, 0, 4, 0, 2, 0, 3}
         };
 ```
+## Output
+```java
+732|458|619
+956|173|824
+184|629|537
+-----------
+871|564|392
+643|892|751
+295|317|468
+-----------
+329|786|145
+418|235|976
+567|941|283
+```
 
 ## Backtracking
 This Java program uses a backtracking algorithm which is brute-force.
